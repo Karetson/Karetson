@@ -54,4 +54,4 @@
   </tbody>
 </table>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Karetson.Karetson)
+![Profile views](https://komarev.com/ghpvc/?username=Karetson)
