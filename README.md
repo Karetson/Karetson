@@ -4,10 +4,14 @@
 |---------------------|----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karetson&hide=javascript) | ![Karetson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karetson)|
 
+| Pinned Repositories | Pinned Repositories |
+|---------------------|---------------------|
+|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Spring-React-LibraryService)|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=OnlinePetStore)|
+
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
-      <th colspan="4">Technologies</th>
+      <th colspan="7">Technologies</th>
     </tr>
     <tr>
       <td align="center">
@@ -31,8 +35,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.docker.com/">
           <img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" alt="docker" width="70" height="70"/>
