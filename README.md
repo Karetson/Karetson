@@ -47,10 +47,6 @@ Windows                  19 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-| Most Used Languages | Wakatime Stats |
-|---------------------|----------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karetson&hide=javascript) | ![Karetson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karetson)|
-
 | Pinned Repositories | Pinned Repositories |
 |---------------------|---------------------|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Spring-React-LibraryService)](https://github.com/Karetson/Spring-React-LibraryService)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=OnlinePetStore)](https://github.com/Karetson/OnlinePetStore)|
