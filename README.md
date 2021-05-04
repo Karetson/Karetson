@@ -96,5 +96,3 @@ Windows                  19 mins             █░░░░░░░░░░�
     </tr>
   </tbody>
 </table>
-
-![Profile views](https://komarev.com/ghpvc/?username=Karetson)
