@@ -6,7 +6,7 @@
 
 | Pinned Repositories | Pinned Repositories |
 |---------------------|---------------------|
-|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Spring-React-LibraryService)|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=OnlinePetStore)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Spring-React-LibraryService)](https://github.com/Karetson/Spring-React-LibraryService)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=OnlinePetStore)](https://github.com/Karetson/OnlinePetStore)|
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
