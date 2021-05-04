@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Robert, check out my GitHub!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 | Most Used Languages | Wakatime Stats |
 |---------------------|----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karetson&hide=javascript) | ![Karetson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karetson)|
