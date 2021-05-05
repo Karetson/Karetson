@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Robert, check out my GitHub!
 
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
