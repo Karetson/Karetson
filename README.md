@@ -44,11 +44,12 @@ Windows                  19 mins             █░░░░░░░░░░�
 | Pinned Repositories | Pinned Repositories |
 |---------------------|---------------------|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Spring-React-LibraryService)](https://github.com/Karetson/Spring-React-LibraryService)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=OnlinePetStore)](https://github.com/Karetson/OnlinePetStore)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Karetson&repo=Weather-App)](https://github.com/Karetson/Weather-App)|
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
-      <th colspan="7">Technologies</th>
+      <th colspan="8">Technologies</th>
     </tr>
     <tr>
       <td align="center">
@@ -85,6 +86,11 @@ Windows                  19 mins             █░░░░░░░░░░�
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/Linux">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.split.io/">
+          <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/split-io_1532363931.png?1532363931" alt="split" width="70" height="70"/>
         </a>
       </td>
     </tr>
