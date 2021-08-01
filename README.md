@@ -38,7 +38,7 @@ Linux                    2 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
