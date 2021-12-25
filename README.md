@@ -21,18 +21,18 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
