@@ -21,18 +21,18 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/03/2022 18:42:27 UTC
+ Last Updated on 22/03/2022 18:43:23 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
