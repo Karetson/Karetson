@@ -21,22 +21,18 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 38 mins       █████████████████████░░░░   85.08% 
-XML                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 5 hrs 27 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 29/03/2022 18:44:12 UTC
+ Last Updated on 02/04/2022 18:42:40 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
