@@ -3,7 +3,7 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,8 +17,24 @@
  > 
 > 🔑 4 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/09/2022 18:45:37 UTC
+```text
+⌚︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 05/09/2022 18:48:07 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
