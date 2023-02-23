@@ -7,35 +7,34 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2023
- > 
 > 📦 51.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 5 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Warsaw
+🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
 Java                     21 mins             ████████████████████████░   96.66 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
 IntelliJ                 22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  22 mins             █████████████████████████   100.00 % 
-
 ```
 
 
- Last Updated on 21/02/2023 18:38:50 UTC
+ Last Updated on 23/02/2023 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
