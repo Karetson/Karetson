@@ -23,18 +23,17 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     21 mins             ████████████████████████░   96.66 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/02/2023 18:37:28 UTC
+ Last Updated on 26/02/2023 18:37:14 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
