@@ -36,17 +36,20 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 hrs 11 mins       ███████████████████████░░   93.60 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 4 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2023 18:36:55 UTC
+ Last Updated on 25/07/2023 18:34:35 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
