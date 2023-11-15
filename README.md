@@ -3,7 +3,7 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -36,17 +36,19 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 35 mins       █████████████████████████   99.59 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/11/2023 19:13:33 UTC
+ Last Updated on 15/11/2023 18:34:53 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
