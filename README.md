@@ -3,7 +3,7 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,7 +48,7 @@ Windows                  6 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 13/12/2023 18:34:59 UTC
+ Last Updated on 14/12/2023 18:36:17 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
