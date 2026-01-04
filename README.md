@@ -3,6 +3,8 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2050%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 10.9 kB Used in GitHub's Storage 
@@ -15,8 +17,36 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
 
- Last Updated on 03/01/2026 18:49:42 UTC
+```text
+Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Wednesday                119 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Friday                   105 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Saturday                 98 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Sunday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 18:49:29 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
