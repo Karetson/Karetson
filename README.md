@@ -3,13 +3,15 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 906 Bytes Used in GitHub's Storage 
+> 📦 1.0 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,16 +19,16 @@
  > 
 > 🔑 1 Private Repository 
  > 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  15 commits          ██████████████████░░░░░░░   71.43 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   2 commits           ████████████░░░░░░░░░░░░░   50.00 % 
+Sunday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -36,23 +38,44 @@ Sunday                   2 commits           ███████████�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 10 mins        █████████████████░░░░░░░░   68.95 % 
+Other                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 41 mins        █████████████████████████   99.57 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 42 mins (100.0%)
+
+✍️ 1,511 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 724,361 Input Tokens, 111,250 Output Tokens
+
+💵 $8.55 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 20 AI Prompts
+
+Opus                     1,522 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 784 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 00:12:58 UTC
+ Last Updated on 06/10/2026 22:43:35 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
