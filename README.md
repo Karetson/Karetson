@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.6 kB Used in GitHub's Storage 
+> 📦 1.7 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 26 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  20 commits          █████████████░░░░░░░░░░░░   52.63 % 
-Wednesday                7 commits           █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Monday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Tuesday                  45 commits          ███████████░░░░░░░░░░░░░░   43.69 % 
+Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 
 
@@ -38,44 +38,44 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Java                     1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Markdown                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Java                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+TypeScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 39 mins       ████████████████████░░░░░   81.34 % 
-IntelliJ IDEA            1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Claude Code              10 hrs 8 mins       ██████████████████████░░░   88.04 % 
+IntelliJ IDEA            1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 💻 Operating System: 
-Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (89.89%)
+⏱ AI Coding Time: 10 hrs 49 mins (93.9%)
 
-✍️ 20,504 lines written by AI, 6 lines written by hand (99.97% AI-written)
+✍️ 38,753 lines written by AI, 6 lines written by hand (99.98% AI-written)
 
-🔤 4,341,084 Input Tokens, 1,196,164 Output Tokens
+🔤 10,504,741 Input Tokens, 2,792,739 Output Tokens
 
-💵 $79.88 Estimated AI Cost This Week
+💵 $202.80 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 37 AI Prompts
+🧠 17 AI Sessions, 49 AI Prompts
 
-Opus                     20,539 lines        █████████████████████████   100.00 % 
+Opus                     38,928 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,296 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 1,795 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 22:13:30 UTC
+ Last Updated on 13/10/2026 00:53:12 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
