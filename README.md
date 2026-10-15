@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 25 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  39 commits          ██████████████░░░░░░░░░░░   54.93 % 
-Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Monday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  10 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Wednesday                4 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -38,45 +38,45 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Java                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-TypeScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Text                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Markdown                 4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.91 % 
+JSON                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Rust                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 36 mins      ██████████████████████░░░   89.35 % 
-IntelliJ IDEA            1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Claude Code              9 hrs 15 mins       ██████████████████████░░░   88.17 % 
+IntelliJ IDEA            1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 💻 Operating System: 
-Windows                  11 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 10 mins (94.23%)
+⏱ AI Coding Time: 9 hrs 48 mins (93.48%)
 
-✍️ 42,950 lines written by AI, 29 lines written by hand (99.93% AI-written)
+✍️ 24,757 lines written by AI, 27 lines written by hand (99.89% AI-written)
 
-🔤 21,078,390 Input Tokens, 3,338,258 Output Tokens
+🔤 19,400,683 Input Tokens, 2,845,030 Output Tokens
 
-💵 $293.40 Estimated AI Cost This Week
+💵 $255.81 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 33 AI Prompts
+🧠 8 AI Sessions, 47 AI Prompts
 
-Opus                     43,244 lines        █████████████████████████   100.00 % 
+Opus                     25,042 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,298 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 1,072 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 21:51:15 UTC
+ Last Updated on 15/10/2026 21:35:13 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
