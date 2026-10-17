@@ -3,9 +3,9 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -38,45 +38,45 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       █████████████░░░░░░░░░░░░   52.99 % 
-Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JSON                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 4 hrs 36 mins       ██████████████░░░░░░░░░░░   57.42 % 
+Text                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 29 mins       █████████████████████░░░░   84.68 % 
-IntelliJ IDEA            1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Claude Code              7 hrs 12 mins       ██████████████████████░░░   89.74 % 
+IntelliJ IDEA            49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 💻 Operating System: 
-Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (92.27%)
+⏱ AI Coding Time: 7 hrs 27 mins (92.98%)
 
-✍️ 12,232 lines written by AI, 27 lines written by hand (99.78% AI-written)
+✍️ 12,232 lines written by AI, 23 lines written by hand (99.81% AI-written)
 
-🔤 15,613,158 Input Tokens, 1,942,128 Output Tokens
+🔤 15,556,322 Input Tokens, 1,932,295 Output Tokens
 
-💵 $183.05 Estimated AI Cost This Week
+💵 $182.36 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 50 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
 Opus                     12,422 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 307 characters per prompt
+🤖 AI-Driven — 99.81% of written lines came from AI
+📝 Concise Prompter — average 335 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 21:28:08 UTC
+ Last Updated on 17/10/2026 20:47:20 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
