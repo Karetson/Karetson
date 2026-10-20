@@ -3,15 +3,15 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.0 kB Used in GitHub's Storage 
+> 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5 commits           █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Tuesday                  11 commits          ████████████░░░░░░░░░░░░░   47.83 % 
-Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  44 commits          ████████████████░░░░░░░░░   65.67 % 
+Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 
@@ -38,45 +38,45 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 4 hrs 36 mins       ██████████████░░░░░░░░░░░   57.42 % 
-Text                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 7 hrs 32 mins       █████████████████░░░░░░░░   69.14 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 12 mins       ██████████████████████░░░   89.74 % 
-IntelliJ IDEA            49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Claude Code              9 hrs 44 mins       ██████████████████████░░░   89.34 % 
+IntelliJ IDEA            1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 💻 Operating System: 
-Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (92.98%)
+⏱ AI Coding Time: 10 hrs 15 mins (94.07%)
 
-✍️ 12,232 lines written by AI, 23 lines written by hand (99.81% AI-written)
+✍️ 6,404 lines written by AI, 24 lines written by hand (99.63% AI-written)
 
-🔤 15,556,322 Input Tokens, 1,932,295 Output Tokens
+🔤 11,537,963 Input Tokens, 1,401,784 Output Tokens
 
-💵 $182.36 Estimated AI Cost This Week
+💵 $138.07 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 45 AI Prompts
+🧠 11 AI Sessions, 89 AI Prompts
 
-Opus                     12,422 lines        █████████████████████████   100.00 % 
+Opus                     6,619 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📝 Concise Prompter — average 335 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.63% of written lines came from AI
+📄 Detailed Prompter — average 793 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 22:31:50 UTC
+ Last Updated on 20/10/2026 21:46:31 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
