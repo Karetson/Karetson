@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 2.3 kB Used in GitHub's Storage 
+> 📦 2.4 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 69 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  44 commits          ████████████████░░░░░░░░░   65.67 % 
-Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Tuesday                  23 commits          ██████████████░░░░░░░░░░░   54.76 % 
+Wednesday                11 commits          ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -38,45 +38,45 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 7 hrs 32 mins       █████████████████░░░░░░░░   69.14 % 
-TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 7 hrs 59 mins       █████████████░░░░░░░░░░░░   50.29 % 
+JavaScript               2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+PowerShell               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 44 mins       ██████████████████████░░░   89.34 % 
-IntelliJ IDEA            1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Claude Code              14 hrs 47 mins      ███████████████████████░░   93.14 % 
+IntelliJ IDEA            1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Operating System: 
-Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (94.07%)
+⏱ AI Coding Time: 15 hrs 25 mins (97.18%)
 
-✍️ 6,404 lines written by AI, 24 lines written by hand (99.63% AI-written)
+✍️ 12,815 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 11,537,963 Input Tokens, 1,401,784 Output Tokens
+🔤 7,128,357 Input Tokens, 1,943,853 Output Tokens
 
-💵 $138.07 Estimated AI Cost This Week
+💵 $158.34 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 89 AI Prompts
+🧠 14 AI Sessions, 130 AI Prompts
 
-Opus                     6,619 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,727 lines        ████████████████████████░   97.47 % 
+Sonnet                   330 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📄 Detailed Prompter — average 793 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,203 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 21:46:31 UTC
+ Last Updated on 21/10/2026 21:52:14 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
