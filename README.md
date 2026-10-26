@@ -3,15 +3,15 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.2 kB Used in GitHub's Storage 
+> 📦 2.4 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2026
+> 🏆 83 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  23 commits          █████████████░░░░░░░░░░░░   52.27 % 
-Wednesday                11 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Monday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Tuesday                  23 commits          ████████████░░░░░░░░░░░░░   46.94 % 
+Wednesday                11 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -38,24 +38,24 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 7 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
-JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-TypeScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-YAML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-PowerShell               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Markdown                 7 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.01 % 
+JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+TypeScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+YAML                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+PowerShell               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 17 mins      ████████████████████████░   95.80 % 
-IntelliJ IDEA            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Claude Code              17 hrs 17 mins      ████████████████████████░   95.12 % 
+IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 💻 Operating System: 
-Windows                  18 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 49 mins (98.8%)
+⏱ AI Coding Time: 17 hrs 49 mins (98.1%)
 
 ✍️ 16,257 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
@@ -76,7 +76,7 @@ Sonnet                   692 lines           █░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2026 21:01:47 UTC
+ Last Updated on 26/10/2026 22:48:24 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
