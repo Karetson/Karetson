@@ -3,15 +3,15 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Karetson)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 2.6 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2026
+> 🏆 97 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,13 +22,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Tuesday                  26 commits          ████████████░░░░░░░░░░░░░   48.15 % 
-Wednesday                13 commits          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Tuesday                  74 commits          ███████████░░░░░░░░░░░░░░   44.31 % 
+Wednesday                39 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 
@@ -38,45 +38,45 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Java                     2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-YAML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-TypeScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Java                     2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Rust                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-Claude Code              8 hrs               ████████████████████████░   95.72 % 
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Claude Code              6 hrs 39 mins       ████████████████████████░   95.87 % 
+IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (97.54%)
+⏱ AI Coding Time: 6 hrs 46 mins (97.78%)
 
-✍️ 4,636 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,271 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,226,483 Input Tokens, 978,866 Output Tokens
+🔤 3,236,201 Input Tokens, 873,272 Output Tokens
 
-💵 $71.58 Estimated AI Cost This Week
+💵 $58.42 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 82 AI Prompts
+🧠 8 AI Sessions, 57 AI Prompts
 
-Opus                     4,301 lines         ███████████████████████░░   92.24 % 
-Sonnet                   362 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Opus                     6,125 lines         ████████████████████████░   97.33 % 
+Sonnet                   168 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,195 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 1,805 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 22:44:13 UTC
+ Last Updated on 29/10/2026 22:53:29 UTC
 <!--END_SECTION:waka-->
 
 | Pinned Repositories | Pinned Repositories |
